@@ -3,8 +3,7 @@
 WELL LOG ANALYSIS & RESERVOIR CHARACTERISATION
 Volve Field Analogue — Norwegian North Sea (CCS Storage Assessment Context)
 =============================================================================
-Author  : Joseph Turkson
-Affil.  : MSc Applied Geoscience, RWTH Aachen University / Fraunhofer IEG
+Author  : Joexy1286
 Purpose : Demonstrate reservoir geologist workflow:
           (1) Well log QC and lithology identification
           (2) Petrophysical analysis — porosity, Vshale, water saturation
