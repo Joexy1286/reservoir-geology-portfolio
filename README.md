@@ -1,8 +1,7 @@
 # Reservoir Geology Portfolio — Volve Field Analogue
 ### Well Log Analysis · Petrophysical Characterisation · CCS Storage Assessment
 
-**Joseph Turkson** | MSc Applied Geoscience (Energy & Mineral Resources), RWTH Aachen University  
-Fraunhofer IEG · Bochum, Germany | [LinkedIn](https://linkedin.com/in/joseph-turkson) | [GitHub](https://github.com/Joexy1286)
+[GitHub](https://github.com/Joexy1286)
 
 ---
 
