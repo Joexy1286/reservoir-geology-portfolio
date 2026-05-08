@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository demonstrates a complete **reservoir geologist workflow** applied to a synthetic well log dataset modelled on the publicly available **Equinor Volve field** (Norwegian North Sea). The workflow mirrors industry practice as performed in Petrel, implemented here in Python for reproducibility and open-source accessibility.
+This repository demonstrates a complete **reservoir workflow** applied to a synthetic well log dataset modelled on the publicly available **Equinor Volve field** (Norwegian North Sea). The workflow mirrors industry practice as performed in Petrel, implemented here in Python for reproducibility and open-source accessibility.
 
 The project is framed as a **CCS (CO₂ storage) suitability assessment** — directly reflecting the energy transition context in which reservoir geology skills are increasingly deployed.
 
